@@ -64,8 +64,8 @@ preload_models()
 
 # generate audio from text
 text_prompt = """
-     Hello, my name is Suno. And, uh — and I like pizza. [laughs] 
-     But I also have other interests such as playing tic tac toe.
+   [man]  Illuminate your world like never before with the  5*60W LED Double Side Moving Head Light.  Designed to captivate and mesmerize,
+this cutting-edge lighting fixture is packed with incredible features that will elevate any event or performance to new heights.
 """
 audio_array = generate_audio(text_prompt)
 
